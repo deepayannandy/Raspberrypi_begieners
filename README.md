@@ -11,4 +11,6 @@
 |:----:|:----:|:----:|
 |<img src="outputs/led_blink.gif" width="300" height="200" />|<img src="outputs/2led_animation.gif" width="300" height="200" />|<img src="outputs/push_to_led.gif" width="300" height="200" /> </br>|
 
-
+## Chapter 2:
+1. How to control DC Motors?
+2. How to control 2 DC motor for a Raspberry pi based car?
