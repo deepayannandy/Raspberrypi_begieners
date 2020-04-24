@@ -14,7 +14,7 @@
 ## Chapter 2:
 1. How to control DC Motors using Raspberry pi and Python?
 2. How to control 2 DC motor for a Raspberry pi based car?
-</br>
+</br><center>
 |Motor Test|
-|:----:|
-|<img src="outputs/ezgif.com-optimize.gif" width="300" height="200" />|</br>|
+</center>
+<img src="outputs/ezgif.com-optimize.gif" width="300" height="200" /></br>
