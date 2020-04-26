@@ -14,7 +14,12 @@
 ## Chapter 2:
 1. How to control DC Motors using Raspberry pi and Python?
 2. How to control 2 DC motor for a Raspberry pi based car?
-</br><center>
-|Motor Test|
-</center>
-<img src="outputs/ezgif.com-optimize.gif" width="300" height="200" /></br>
+3. How to Use Oled With Raspberry pi?
+4. How to show custom images on a oled display?
+5. how to make a live corona tracker using oled display and Raspberry pi?
+<br>
+
+|Motor Test|Oled Custom Logo|Live Corona Tracker|
+|:----:|:----:|:----:|
+|<img src="outputs/ezgif.com-optimize.gif" width="300" height="200" />|<img src="outputs/C3DA03CD-5EC5-48DD-99E4-8989D7276AE9.jpg" width="300" height="200" />|<img src="outputs/IMG_1210.jpg" width="300" height="200" /> </br>|
+
